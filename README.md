@@ -1,4 +1,6 @@
 # Game-of-Life
-# game
-# of
-# life
+public class GameOfLife
+{
+  sdfsdfdsfsfs
+}
+
