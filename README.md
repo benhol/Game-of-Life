@@ -1,4 +1,4 @@
 # Game-of-Life
-game
-of
-life
+# game
+# of
+# life
