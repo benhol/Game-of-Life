@@ -1,6 +1,4 @@
 # Game-of-Life
-hei
-{
-
-yoo
-}
+game
+of
+life
